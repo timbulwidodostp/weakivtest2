@@ -1,5 +1,32 @@
-d 'DEA': Data envelopment analysis
+d 'weakivtest2': A Robust Test for Weak Instruments with Multiple Endogenous Regressors Use weakivtest2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f avar.ado
+f avar.sthlp
+f avar9.ado
+f ivreg2.ado
+f ivreg2.sthlp
+f ivreg210.ado
+f ivreg210.sthlp
+f ivreg210_p.ado
+f ivreg28.ado
+f ivreg28.hlp
+f ivreg28_cue.ado
+f ivreg28_p.ado
+f ivreg29.ado
+f ivreg29.hlp
+f ivreg29_cue.ado
+f ivreg29_p.ado
+f ivreg2_p.ado
+f livreg2.mlib
+f ranktest.ado
+f ranktest.sthlp
+f ranktest11.ado
+f ranktest11.sthlp
+f ranktest9.ado
+f weakivtest.ado
+f weakivtest.sthlp
+f weakivtest2.ado
+f weakivtest2.sthlp
+f xtivreg2.ado
+f xtivreg2.hlp
+f xtivreg2_p.ado
