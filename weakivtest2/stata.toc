@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p weakivtest2 A Robust Test for Weak Instruments with Multiple Endogenous Regressors Use weakivtest2 With STATA 18
